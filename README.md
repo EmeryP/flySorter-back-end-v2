@@ -1,6 +1,6 @@
 ![logo](./assets/flysorter-logo.png)
 # Welcome
-The following documentation is specifically for the ***BACK END*** repository. If you are looking for the ***FRONT END*** respository click [HERE](https://github.com/fly-sorter/flySorter-front-end-v2).
+The following documentation is specifically for the ***BACK END*** repository. If you are looking for the ***FRONT END*** respository click [HERE](https://github.com/EmeryP/flySorter-front-end-v2).
 
 # Description
 FlySorter is an inventory management application for the Seattle-based company: [FlySorter](https://flysorter.com/). FlySorter builds machines to sort fruit flies so they can be used for scientific research. This application keeps track of those machine assemblies, sub-assemblies, and the parts that belong to those sub assemblies. These components are displayed on the page and allows the user to click on a sub-assembly to reveal the parts that makeup that sub-assembly. The table also allows the user to filter parts and search for a part in order to make finding particular parts faster and easier for the user.
@@ -20,7 +20,7 @@ The following technologies were used to develop the backend:
 # Running the application
 The original backend for the FlySorter application was developed using Node, Express, and MongoDB. This original version could be deployed locally. However, this release of the application is being hosted exclusively from Amazon Web Services, and the code stored on this repository now consists of fragments and snippets that were ultimately deployed to AWS.
 
-If you would like to view the latest deployement of this application please click [HERE]().
+If you would like to view the latest deployement of this application please click [HERE](http://flyorterfrontendv2-20181221115532-hostingbucket.s3-website-us-west-2.amazonaws.com).
 
 # Testing
 Backend testing for this application was performed exclusively from within AWS using the [API Gateway](https://aws.amazon.com/api-gateway/) testing tools and test suites run via [AWS Cloud9](https://aws.amazon.com/cloud9/).
@@ -42,6 +42,6 @@ ____
 [David Chambers, Jr.](https://github.com/dlchambersjr) | |
 [Emery Parks](https://github.com/emeryP) | |
 [Timothy Li](https://github.com/timinis) | |
-[Trevor Stam](hhttps://github.com/trevorstam)
+[Trevor Stam](https://github.com/trevorstam)
 
 ____
